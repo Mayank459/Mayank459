@@ -27,43 +27,50 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-<table>
-  <tr>
-    <td width="36%" align="center" valign="middle">
-      <img src="assets/avatar.jpeg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Mayank Developer Illustration" />
-      <br/><br/>
-      <sub>☕ <b>Chai &nbsp;»&nbsp; Code &nbsp;»&nbsp; Progress</b> 🚀</sub><br/>
-      <sub>✨ <i>"Better Than Yesterday"</i></sub>
-    </td>
-    <td width="64%" valign="top">
-
 ```python
 class Mayank:
     handle      = "Mayank459"
     role        = "AI Systems & Backend Engineer"
-    location    = "India"
+    location    = "India 🇮🇳"
+    flagship    = "CodeBase — Enterprise Repository Intelligence Engine"
     
     focus_areas = [
-        "Repository intelligence & code-graph RAG",
-        "High-throughput streaming pipelines (Kafka + Grafana)",
-        "Low-latency voice agents & LLM orchestration",
-        "Applied ML (Precision Agriculture & AutoML)"
+        "Repository intelligence & AST code-graph RAG",
+        "High-throughput event streaming (Apache Kafka + Grafana)",
+        "Low-latency conversational voice AI (WebSockets + Faster-Whisper + Groq)",
+        "Applied ML & Precision Agricultural AI (FastAPI + XGBoost)"
     ]
 
-    flagship    = "CodeBase — Enterprise Repository Intelligence Engine"
-    stack       = ["Python", "FastAPI", "Apache Kafka", "LangGraph", "Qdrant", "React"]
+    core_stack  = ["Python", "FastAPI", "Apache Kafka", "LangGraph", "Qdrant", "React"]
     creed       = ["Guardrails first", "Evals over vibes", "Telemetry by default"]
-    hobbies     = ["Anime", "Chai", "Exploring deep tech architectures"]
 
     def philosophy(self):
         return "If it can't be measured, traced, and tested — it isn't production-ready."
 ```
 
-**Hey there! 👋** I build software at the intersection of **AI, distributed systems, and developer tooling**. Whether it's architecting multi-agent AST code intelligence engines, ingesting high-volume Kafka streaming telemetry with real-time Grafana dashboards, or deploying voice agents with sub-second latency — I care about building systems that are robust, observable, and genuinely useful.
-
-</td>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>🧠 &nbsp;AI & Developer Tools</h4>
+      <sub>Multi-agent AST analyzers, bidirectional call-graph traversers, vector search, and automated CI evaluation harnesses.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>⚡ &nbsp;Distributed & Real-Time</h4>
+      <sub>High-throughput Kafka streaming pipelines, live Grafana telemetry, and sub-second WebSocket voice screening agents.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>🛡️ &nbsp;Production Reliability</h4>
+      <sub>Input prompt defense guardrails, automated secret scrubbing, Prometheus latency histograms, and Docker stacks.</sub>
+    </td>
   </tr>
 </table>
+
+<div align="center">
+
+> ☕ **Chai &nbsp;»&nbsp; Code &nbsp;»&nbsp; Progress &nbsp;»&nbsp; Repeat** &nbsp;•&nbsp; *Building engines that make complex systems transparent, measurable, and reliable.*
+
+</div>
+
 
 ---
 
