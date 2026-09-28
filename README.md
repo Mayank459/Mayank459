@@ -1,15 +1,15 @@
 <!-- ═══════════════════════════════════════════════════════════════
      Profile README · Mayank459
      Repository: github.com/Mayank459/Mayank459  (README.md at repo root)
-     Assets: assets/pipeline.svg  +  assets/avatar.jpeg  +  .github/workflows/snake.yml
+     Assets: assets/pipeline.svg  +  .github/workflows/snake.yml
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Mayank&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20Intelligent%20Engines%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20Applied%20AI&descSize=18&descAlignY=60&descColor=a5b4fc" alt="Mayank Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Mayank%20Kumar&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20Intelligent%20Engines%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20Applied%20AI&descSize=18&descAlignY=60&descColor=a5b4fc" alt="Mayank Header" />
 
 <a href="https://github.com/Mayank459/CodeBase">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=%24+whoami+%E2%86%92+Mayank+%7C+AI+%C3%97+Systems+%C3%97+Data+Engineer;Building+CodeBase+%E2%80%94+Repository+Intelligence+Engine;Real-Time+Streaming+%E2%80%A2+Apache+Kafka+%2B+Grafana;Voice+AI+%E2%80%A2+WebSockets+%2B+Faster-Whisper+%2B+Groq;Applied+ML+%E2%80%A2+Precision+AgriTech+%2B+AutoML+Platforms;Python+%7C+FastAPI+%7C+LangGraph+%7C+Qdrant+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=%24+whoami+%E2%86%92+Mayank+Kumar+%7C+AI+%C3%97+Systems+%C3%97+Data+Engineer;B.Tech+CSE+%40+IIIT+Una+%E2%80%A2+Ex-Full+Stack+Intern+%40+Oddiant+Techlabs;Building+CodeBase+%E2%80%94+Repository+Intelligence+Engine;Real-Time+Streaming+%E2%80%A2+Apache+Kafka+%2B+Grafana;Voice+AI+%E2%80%A2+WebSockets+%2B+Faster-Whisper+%2B+Groq;Applied+ML+%E2%80%A2+Precision+AgriTech+%2B+AutoML+Platforms;Python+%7C+FastAPI+%7C+LangGraph+%7C+Qdrant+%7C+React" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=Mayank459&label=Profile+Views&style=for-the-badge&color=7c3aed" alt="views" />
 <a href="https://code-base-tau.vercel.app"><img src="https://img.shields.io/badge/CodeBase-Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" alt="CodeBase demo" /></a>
 <a href="http://13.60.250.242:3000/d/ecommerce-streaming-v1/e-commerce-real-time-streaming-dashboard?orgId=1&refresh=5s"><img src="https://img.shields.io/badge/Kafka%20Streaming-Grafana%20Live-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0f0c29" alt="Grafana demo" /></a>
-<a href="https://github.com/Mayank459?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-18-a78bfa?style=for-the-badge&logo=github&labelColor=0f0c29" alt="repos" /></a>
+<a href="https://github.com/Mayank459?tab=followers"><img src="https://img.shields.io/github/followers/Mayank459?style=for-the-badge&logo=github&color=a78bfa&labelColor=0f0c29" alt="followers" /></a>
 
 </div>
 
@@ -29,11 +29,14 @@
 
 ```python
 class Mayank:
+    name        = "Mayank Kumar"
     handle      = "Mayank459"
     role        = "AI Systems & Backend Engineer"
-    location    = "India 🇮🇳"
+    education   = "B.Tech CSE @ IIIT Una (2023 – Present)"
+    experience  = ["Full Stack Developer Intern @ Oddiant Techlabs (Oct–Dec 2025)"]
+    location    = "Himachal Pradesh, India 🇮🇳"
     flagship    = "CodeBase — Enterprise Repository Intelligence Engine"
-    
+
     focus_areas = [
         "Repository intelligence & AST code-graph RAG",
         "High-throughput event streaming (Apache Kafka + Grafana)",
@@ -41,7 +44,8 @@ class Mayank:
         "Applied ML & Precision Agricultural AI (FastAPI + XGBoost)"
     ]
 
-    core_stack  = ["Python", "FastAPI", "Apache Kafka", "LangGraph", "Qdrant", "React"]
+    languages   = ["Python", "C++", "C", "SQL", "JavaScript"]
+    core_stack  = ["FastAPI", "Node.js", "React", "Apache Kafka", "LangGraph", "Qdrant", "PySpark"]
     creed       = ["Guardrails first", "Evals over vibes", "Telemetry by default"]
 
     def philosophy(self):
@@ -74,6 +78,36 @@ class Mayank:
 
 ---
 
+## 💼 &nbsp;Experience & Education
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏢 Full Stack Developer Intern
+**Oddiant Techlabs** · Remote, Noida · *Oct 2025 – Dec 2025*
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT`
+
+- 🔐 Designed, built & deployed **5+ RESTful APIs** in Node.js/Express with **JWT auth** on every protected route.
+- ⚡ Re-modelled **MongoDB** schemas with strategic indexing & query tuning — **35% faster** average data retrieval across 3+ key user flows.
+- 🎨 Shipped **10+ reusable React components** (Tailwind, mobile-first, 5+ breakpoints), cutting UI dev time by **30%**.
+
+</td>
+    <td width="50%" valign="top">
+
+### 🎓 B.Tech, Computer Science & Engineering
+**Indian Institute of Information Technology Una** · Himachal Pradesh · *2023 – Present*
+
+**Coursework & Core:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · Data Engineering (ETL/ELT) · Data Modeling
+
+**Beyond the classroom:** PR Executive at the **E-Cell** and **Mridang** cultural fest — more below in Achievements & Leadership.
+
+</td>
+  </tr>
+</table>
+
+---
+
 ## ⚡ &nbsp;Flagship Project — [CodeBase](https://github.com/Mayank459/CodeBase)
 
 > **Enterprise-style Repository Intelligence Platform.** Point CodeBase at any repository, and it decomposes the codebase into ASTs, constructs a topological call graph, performs hybrid vector retrieval in Qdrant, and orchestrates LangGraph agents so you can *chat with the architecture* — complete with input guardrails, secret scrubbing, automated evals, and Prometheus telemetry.
@@ -101,7 +135,8 @@ class Mayank:
 - 🌳 **Tree-sitter AST decomposition** into semantic classes, functions, and symbols
 - 🕸️ **NetworkX Call-Graph** with bidirectional BFS caller/callee tracing
 - 🔎 **Hybrid Retrieval** — Cohere 384-d dense embeddings indexed in **Qdrant**
-- 🤖 **LangGraph Multi-Agent Runtime**: Intent router → graph traverser / vector retriever / auditor → synthesizer
+- 🤖 **LangGraph Multi-Agent Runtime** — **6+ agents**: intent router → graph traverser / vector retriever / auditor → synthesizer
+- 🌐 **Node.js/Express gateway** in front of the Python FastAPI AI engine
 - 📡 **SSE Streaming** delivering real-time responses to a React workstation UI
 - 🔒 **Static Hygiene Suite**: CVE detection, dead-code pruning, auto UML generation, and HITL PR review gate
 
@@ -196,9 +231,10 @@ Ultra low-latency conversational AI agent ("Alex") that conducts live technical 
 `FastAPI` `Streamlit` `XGBoost` `Random Forest` `Geo Enrichment`
 
 Comprehensive data-driven agricultural intelligence platform for Indian farming ecosystems:
-- **Yield Prediction API**: Farmers supply GPS coordinates and crop type — API auto-enriches soil, climate, and elevation data to forecast yield.
-- **Fertilizer Recommendation API**: Dual XGBoost & Random Forest models trained on agricultural nutrient indices.
-- **Irrigation Advisory**: Environmental sensor telemetry for optimizing field watering schedules.
+- **Yield Prediction API**: Farmers supply GPS + crop type; the API auto-enriches soil, climate & elevation data. Random Forest tuned with GridSearchCV + k-fold CV — **+18% prediction accuracy**.
+- **Irrigation Advisory**: Fuses **Open-Meteo** forecasts, **SoilGrids** soil data & crop parameters — **~25% lower estimated water usage**.
+- **Fertilizer Recommendation API**: Dual XGBoost & Random Forest models trained on nutrient indices.
+- **Data Engineering**: Automated ETL pipelines for real-time ingestion, fully containerized with Docker.
 
 <a href="https://github.com/Mayank459/yeild_prediction_api"><img src="https://img.shields.io/badge/Yield_API-GitHub-181717?style=flat-square&logo=github" /></a>
 <a href="https://github.com/Mayank459/fertilizer-recommendation-api"><img src="https://img.shields.io/badge/Fertilizer_API-GitHub-181717?style=flat-square&logo=github" /></a>
@@ -211,7 +247,8 @@ Comprehensive data-driven agricultural intelligence platform for Indian farming 
 `Streamlit` `mljar-supervised` `Scikit-Learn` `Optuna` `Plotly`
 
 Interactive web application delivering an end-to-end automated machine learning pipeline:
-- **Automated EDA**: Dynamic distribution plots, correlation matrices, and missing value imputation.
+- **Automated EDA** on **100K+ row** datasets: distribution plots, correlation matrices & imputation — **~60% less manual analysis effort**.
+- **10+ preprocessing & modeling workflows**: feature engineering, training & evaluation with Scikit-learn.
 - **Multi-Model Search**: Benchmarks Random Forests, Gradient Boosters, and baseline classifiers via Optuna.
 - **Interactive Predictions & Artifacts**: Generates ROC/PR curves and allows one-click export of serialized models.
 
@@ -286,7 +323,7 @@ Health and nutrition intelligence platform blending tabular regression with comp
       <td><b><a href="https://github.com/Mayank459/ai-voice-agent">AI Voice Agent</a></b></td>
       <td>Low-Latency Technical Interviewer</td>
       <td><code>FastAPI</code> <code>WebSockets</code> <code>Whisper</code> <code>Groq</code></td>
-      <td align="center"><span style="color:#a78bfa;">Audio Stream</span></td>
+      <td align="center"><sub>Audio Stream</sub></td>
       <td align="center"><a href="https://github.com/Mayank459/ai-voice-agent"><img src="https://img.shields.io/badge/Repo-Voice_Agent-7c3aed?style=flat-square&logo=github" alt="Source" /></a></td>
     </tr>
     <tr>
@@ -300,28 +337,28 @@ Health and nutrition intelligence platform blending tabular regression with comp
       <td><b><a href="https://github.com/Mayank459/streamlit-automl-project">AutoML Dashboard</a></b></td>
       <td>No-Code End-to-End Data Science</td>
       <td><code>Streamlit</code> <code>mljar</code> <code>Optuna</code> <code>Plotly</code></td>
-      <td align="center"><span style="color:#22c55e;">Local/Cloud</span></td>
+      <td align="center"><sub>Local/Cloud</sub></td>
       <td align="center"><a href="https://github.com/Mayank459/streamlit-automl-project"><img src="https://img.shields.io/badge/Repo-AutoML-7c3aed?style=flat-square&logo=github" alt="Source" /></a></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Mayank459/Udemy-extension">Udemy AI Summary</a></b></td>
       <td>Lecture Synthesis & Math Extraction</td>
       <td><code>JavaScript</code> <code>Chrome Manifest V3</code> <code>LaTeX</code></td>
-      <td align="center"><span style="color:#0ea5e9;">Extension</span></td>
+      <td align="center"><sub>Extension</sub></td>
       <td align="center"><a href="https://github.com/Mayank459/Udemy-extension"><img src="https://img.shields.io/badge/Repo-Extension-7c3aed?style=flat-square&logo=github" alt="Source" /></a></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Mayank459/DietPlanner">DietPlanner</a></b></td>
       <td>Calorie & Nutrition Vision Engine</td>
       <td><code>Python</code> <code>CatBoost</code> <code>PyTorch</code> <code>FastAPI</code></td>
-      <td align="center"><span style="color:#a78bfa;">Model API</span></td>
+      <td align="center"><sub>Model API</sub></td>
       <td align="center"><a href="https://github.com/Mayank459/DietPlanner"><img src="https://img.shields.io/badge/Repo-DietPlanner-7c3aed?style=flat-square&logo=github" alt="Source" /></a></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Mayank459/Virtual_Mouse">Virtual Mouse</a></b></td>
       <td>Contactless Gesture Cursor Control</td>
       <td><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></td>
-      <td align="center"><span style="color:#fbbf24;">CV App</span></td>
+      <td align="center"><sub>CV App</sub></td>
       <td align="center"><a href="https://github.com/Mayank459/Virtual_Mouse"><img src="https://img.shields.io/badge/Repo-Virtual_Mouse-7c3aed?style=flat-square&logo=github" alt="Source" /></a></td>
     </tr>
   </tbody>
@@ -337,19 +374,25 @@ Health and nutrition intelligence platform blending tabular regression with comp
   <tr>
     <td align="center">
       <b>Languages & Full Stack</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,fastapi,react,vite,js,ts,html,css,nodejs&theme=dark" alt="Languages & Full Stack" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,fastapi,nodejs,express,react,vite,tailwind,html,css&theme=dark" alt="Languages & Full Stack" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>Machine Learning, Data & Distributed Streaming</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=pytorch,sklearn,kafka,postgres,opencv,pandas,numpy&theme=dark" alt="ML, Data & Streaming" />
+      <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,kafka,postgres,mongodb&theme=dark" alt="ML, Data & Streaming" /><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+      <img src="https://img.shields.io/badge/XGBoost-Boosting-189FDD?style=flat-square" />
+      <img src="https://img.shields.io/badge/MediaPipe-Vision-0097A7?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>AI Agents, Graph Engines & LLM Orchestration</b><br/><br/>
       <img src="https://img.shields.io/badge/LangGraph-Multi--Agent-f97316?style=flat-square" />
+      <img src="https://img.shields.io/badge/LangChain-LLM_Apps-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-Vector_DB-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/Tree--sitter-AST_Parsing-22c55e?style=flat-square" />
       <img src="https://img.shields.io/badge/NetworkX-Call_Graphs-0ea5e9?style=flat-square" />
@@ -362,12 +405,37 @@ Health and nutrition intelligence platform blending tabular regression with comp
   <tr>
     <td align="center">
       <b>DevOps, Observability & Cloud Platforms</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,githubactions,prometheus,grafana,linux,git,github,vscode,vercel&theme=dark" alt="DevOps & Observability" />
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,prometheus,grafana,linux,git,github,postman,vscode,vercel&theme=dark" alt="DevOps & Observability" />
     </td>
   </tr>
 </table>
 
 </div>
+
+---
+
+## 🏆 &nbsp;Achievements & Leadership
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+**🥇 Achievements**
+- 🧩 **250+ DSA problems** solved across LeetCode, CodeChef & GeeksforGeeks
+- 🏔️ Led **Hack the Hills** — a national hackathon with **850+ participants**
+- 🚀 Organized the **E-Summit at IIIT Una** — startup sessions, workshops & panel discussions
+- 🎭 Conducted **Mridang 2025**, IIIT Una's flagship cultural fest
+
+</td>
+    <td width="50%" valign="top">
+
+**🎙️ Positions of Responsibility**
+- **PR Executive — Entrepreneurship & Incubation Cell, IIIT Una** · *Feb 2024 – Present*<br/><sub>Drove promotion for 10+ institute events through outreach & sponsorship communication.</sub>
+- **PR Executive — Mridang Cultural Fest, IIIT Una** · *Oct 2024*<br/><sub>Coordinated 20+ volunteers and organizing teams for institute-wide events.</sub>
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -417,7 +485,7 @@ Health and nutrition intelligence platform blending tabular regression with comp
 - 🔭 Expanding **CodeBase 2.0** — deeper AST indexers, multi-repo cross-referencing, and continuous evaluation suites.
 - ⚡ Deep-diving into **real-time event architectures** and stream analytics with Apache Kafka.
 - 📚 Refining **DSA & System Design** foundations ([LeetCode Resources](https://github.com/Mayank459/awesome-leetcode-resources) · [GATE/CSE Resources](https://github.com/Mayank459/GATE-and-CSE-Resources-for-Students)).
-- 🤝 Open to collaboration on open-source AI tooling, agentic systems, and developer infrastructure.
+- 💼 Open to **SDE / AI / Data Engineering internships** and collaboration on open-source AI tooling, agentic systems & developer infrastructure.
 
 ---
 
@@ -425,6 +493,7 @@ Health and nutrition intelligence platform blending tabular regression with comp
 
 <div align="center">
 
+<a href="mailto:miyankkumar444@gmail.com"><img src="https://img.shields.io/badge/Email-miyankkumar444@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Mayank459"><img src="https://img.shields.io/badge/GitHub-Mayank459-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://code-base-tau.vercel.app"><img src="https://img.shields.io/badge/CodeBase-Live_Workstation-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="CodeBase Demo" /></a>
 <a href="http://13.60.250.242:3000/d/ecommerce-streaming-v1/e-commerce-real-time-streaming-dashboard?orgId=1&refresh=5s"><img src="https://img.shields.io/badge/Kafka_Stream-Grafana_Dashboard-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Demo" /></a>
